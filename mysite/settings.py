@@ -20,10 +20,10 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,'blog/templates/blog')
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '$ve^9!77lmb5ys^=3qt1xu6zym(zy7jgq^g^@=)5503jmctwq8'
+SECRET_KEY = 'q^n4^0*8v2f9%qs$+hg7l0g!-461fja26bzq=cwp)y3u&k6i8&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = false
 
 ALLOWED_HOSTS = []
 
